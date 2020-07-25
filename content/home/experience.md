@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Intern"
+  company = "IIITD"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "New Delhi"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Working on Estimation of DOA using Deep Learning
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "SDE Intern"
+  company = "innovaccer"
+  company_url = "https://innovaccer.com/"
+  location = "New Delhi"
+  date_start = "2020-04-20"
+  date_end = "2020-07-17"
+  description = """ 
+ 
+  * Worked on Telemed product with frontend on React.
+  * Integrating video calling feature using MS teams API.
+  *  API and utility development on Django.
+  """
+  [[experience]]
+  title = "Software Developer Intern"
+  company = "Rydeu.com"
+  company_url = "Rydeu.com"
+  location = "New Delhi"
+  date_start = "2019-07-01"
+  date_end = "2019-10-30"
+  description = """ 
+  Ground transport and logistics solution company based in Germany
+  * Worked on Database design and their migrations.
+  * Designed multiple API endpoints and their integration.
+  * Integrated many services like mailing, logging, stripe, etc.
+  """
 +++

@@ -41,10 +41,24 @@ date_format = "Jan 2006"
   * Integrating video calling feature using MS teams API.
   *  API and utility development on Django.
   """
+
+  [[experience]]
+  title = "Research Intern"
+  company = "WowCheme"
+  company_url = "https://www.wowcheme.in"
+  location = "New Delhi"
+  date_start = "2019-09-01"
+  date_end = "2020-03-30"
+  description = """ 
+  * Explored applications of machine learning in understanding catalysis for energy and chemical production.
+  * Successfully reviewed and summarized a few research papers.
+  * Co-authored a Book chapter entitled `Catalytic production of high-value chemicals from high volume non-food biomass: Implications from Machine learning in acid catalysis` with [Md. Imteyaz Alam](https://scholar.google.co.in/citations?user=JZPBJloAAAAJ&hl=en) which is going to be published soon by Springer Nature.
+  """
+
   [[experience]]
   title = "Software Developer Intern"
   company = "Rydeu.com"
-  company_url = "Rydeu.com"
+  company_url = "https://Rydeu.com"
   location = "New Delhi"
   date_start = "2019-07-01"
   date_end = "2019-10-30"

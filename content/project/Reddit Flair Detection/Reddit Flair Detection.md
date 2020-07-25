@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: external-link-alt
-  icon_pack: fas
-  name: View
-  url: https://code-ml.com/
+- icon: github
+  icon_pack: fab
+  name: Repository
+  url: https://github.com/ahmadkhan242/Reddit-flair-detection
 url_code: ""
 url_pdf: ""
 url_slides: ""

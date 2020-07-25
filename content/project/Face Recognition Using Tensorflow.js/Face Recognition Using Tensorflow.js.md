@@ -18,6 +18,10 @@ links:
   icon_pack: fas
   name: View
   url: https://face-recognition-using-tfjs.herokuapp.com/
+- icon: github
+  icon_pack: fab
+  name: Repository
+  url: https://github.com/ahmadkhan242/face-recognition-using-tf.js
 url_code: ""
 url_pdf: ""
 url_slides: ""

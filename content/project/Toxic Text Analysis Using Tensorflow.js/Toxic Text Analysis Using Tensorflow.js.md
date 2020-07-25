@@ -17,7 +17,11 @@ links:
 - icon: external-link-alt
   icon_pack: fas
   name: View
-  url: https://code-ml.com/
+  url: https://toxic-text-analysis.herokuapp.com/
+- icon: github
+  icon_pack: fab
+  name: Repository
+  url: https://github.com/ahmadkhan242/Toxic-Text-analysis-TF.js
 url_code: ""
 url_pdf: ""
 url_slides: ""

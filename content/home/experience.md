@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = "https://www.wowcheme.in"
   location = "New Delhi"
   date_start = "2019-09-01"
-  date_end = "2020-03-30"
+  date_end = "2020-06-30"
   description = """ 
   * Explored applications of machine learning in understanding catalysis for energy and chemical production.
   * Successfully reviewed and summarized a few research papers.

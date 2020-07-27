@@ -1,6 +1,6 @@
 ---
-title: Toxic Text Analysis Using Tensorflow.js
-summary: Web Application built on HTML, CSS, and javascript, which analyze toxicity in a given Text using a Pre-trained model from Tensorflow Hub.
+title: Reddit Flair Detection
+summary: Detection of popular Reddit flair on “r/india/” subreddit. This project includes data scraping, EDA, modeling, and Heroku deployment.
 tags:
 - Deep Learning
 - Web development
@@ -14,14 +14,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: external-link-alt
-  icon_pack: fas
-  name: View
-  url: https://toxic-text-analysis.herokuapp.com/
 - icon: github
   icon_pack: fab
   name: Repository
-  url: https://github.com/ahmadkhan242/Toxic-Text-analysis-TF.js
+  url: https://github.com/ahmadkhan242/Reddit-flair-detection
+- icon: external-link-alt
+  icon_pack: fas
+  name: Demo
+  url: https://asdasrfd.herokuapp.com/
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -16,7 +16,7 @@ image:
 links:
 - icon: external-link-alt
   icon_pack: fas
-  name: View
+  name: Demo
   url: https://code-ml.com/
 url_code: ""
 url_pdf: ""

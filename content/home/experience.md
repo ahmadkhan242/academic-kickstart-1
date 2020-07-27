@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   description = """ 
   * Explored applications of machine learning in understanding catalysis for energy and chemical production.
   * Successfully reviewed and summarized a few research papers.
-  * Co-authored a Book chapter entitled `Catalytic production of high-value chemicals from high volume non-food biomass: Implications from Machine learning in acid catalysis` with [Md. Imteyaz Alam](https://scholar.google.co.in/citations?user=JZPBJloAAAAJ&hl=en) which is going to be published soon by Springer Nature.
+  * Co-authored a Book chapter entitled `Catalytic production of high-value chemicals from high volume non-food biomass: Implications from Machine learning in acid catalysis` with [Md. Imteyaz Alam](https://scholar.google.co.in/citations?user=JZPBJloAAAAJ&hl=en) which is going to be published soon by `Springer Nature`.
   """
 
   [[experience]]

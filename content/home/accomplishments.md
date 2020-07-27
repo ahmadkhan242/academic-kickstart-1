@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   title = " Programming for Everybody (Getting Started with Python)"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/M8WNQJC6GM7Z"
-  date_start = "2010-03-04"
+  date_start = "2019-03-04"
   date_end = ""
   description = ""
 

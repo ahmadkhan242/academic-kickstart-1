@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 
   [[experience]]
   title = "Research Intern"
-  company = "WowCheme"
+  company = "WowChemE M&C Pvt. Ltd"
   company_url = "https://www.wowcheme.in"
   location = "New Delhi"
   date_start = "2019-09-01"

@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "IIITD"
-  company_url = ""
+  company_url = "https://www.iiitd.ac.in/"
   location = "New Delhi"
   date_start = "2020-07-01"
   date_end = ""

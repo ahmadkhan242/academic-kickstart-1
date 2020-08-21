@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = ""
   description = """
-  Working on Estimation of DOA using Deep Learning
+  Project: Parameter Estimation in Multi-standard Wideband Receivers via Deep Learning.
   """
 
 [[experience]]

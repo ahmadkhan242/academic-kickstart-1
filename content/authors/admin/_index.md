@@ -52,11 +52,18 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/ahmadkhan242
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=g4i69KMAAAAJ&hl=en
+
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mohammad_Ahmad53
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/Mohammad_ML_CV.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/Mohammad_ML_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "md.ahmad0652@gmail.com"
